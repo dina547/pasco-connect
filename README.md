@@ -38,15 +38,16 @@
 
 
 ## Author
-- **Name:** James Neal 
-- **Email:** james678neal@outlook.com
+- **Name:** Dina Downey 
+- **Email:** dina547downey@outlook.com
 - **Website:** pasco connect
 
 Senior Full Stack Developer & Software Architect
 
-- James Neal is a highly experienced software developer with over a decade of experience in the industry. With a strong background in both front-end and back-end technologies, James has a deep understanding of the entire web development process. His expertise spans a variety of programming languages and frameworks, with a particular focus on creating scalable and maintainable code.
-
-- James is passionate about sharing his knowledge with the community, regularly contributing to open-source projects and mentoring junior developers. He believes in the power of continuous learning and is always exploring the latest trends and technologies in the field.
+- Dina Downey is a highly experienced software developer with over a decade of experience in the industry. With a strong background in both front-end and back-end technologies.
+- Dina Downey has a deep understanding of the entire web development process.
+- Dina Downey expertise spans a variety of programming languages and frameworks, with a particular focus on creating scalable and maintainable code.
+- Dina Downey is passionate about sharing his knowledge with the community, regularly contributing to open-source projects and mentoring junior developers. He believes in the power of continuous learning and is always exploring the latest trends and technologies in the field.
 
 ## Getting Started
 
@@ -54,7 +55,7 @@ To get started with pasco connect, follow these steps:
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/yourusername/pasco-connect.git
+    git clone https://github.com/dina547/pasco-connect.git
     ```
 
 2. **Navigate to the Project Directory:**
